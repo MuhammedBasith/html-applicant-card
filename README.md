@@ -2,6 +2,8 @@
 
 A responsive and interactive applicant card built with HTML, CSS, and JavaScript. This project allows users to toggle between different timeframes (Month, Week, Day) and view applicant information with ratings and details.
 
+View it live here: https://html-applicant-card.vercel.app/
+
 ## Features
 
 - **Tab-based Navigation**: Toggle between Month, Week, and Day views.

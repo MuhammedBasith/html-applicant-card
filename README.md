@@ -28,9 +28,6 @@ A responsive and interactive applicant card built with HTML, CSS, and JavaScript
    - Update styles in `styles.css`.
    - Modify interactivity in `script.js`.
 
-## Screenshots
-
-Add screenshots here (optional).
 
 ## License
 

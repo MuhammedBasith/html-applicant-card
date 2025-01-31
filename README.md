@@ -1,6 +1,6 @@
 # Applicant Dashboard
 
-A responsive and interactive applicant dashboard built with HTML, CSS, and JavaScript. This project allows users to toggle between different timeframes (Month, Week, Day) and view applicant information with ratings and details.
+A responsive and interactive applicant card built with HTML, CSS, and JavaScript. This project allows users to toggle between different timeframes (Month, Week, Day) and view applicant information with ratings and details.
 
 ## Features
 
@@ -10,7 +10,7 @@ A responsive and interactive applicant dashboard built with HTML, CSS, and JavaS
 
 ## Technologies Used
 
-- **HTML**: Structure of the dashboard and its tables.
+- **HTML**: Structure of the card and its tables.
 - **CSS**: Styling for a clean and modern layout.
 - **JavaScript**: Functionality to toggle between the different views and animate table transitions.
 
